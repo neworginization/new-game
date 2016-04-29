@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AFC45306-3C85-44E0-9135-A024D91E7DB2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_gameContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-31T23:51:29.2016622-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

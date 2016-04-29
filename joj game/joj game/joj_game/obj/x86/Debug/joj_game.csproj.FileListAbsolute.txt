@@ -1,0 +1,16 @@
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\joj_game.exe
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\joj_game.pdb
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\joj_game.csprojResolveAssemblyReference.cache
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\joj_game.exe
+c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\joj_game.pdb
