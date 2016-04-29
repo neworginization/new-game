@@ -1,6 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sprites\newsprite.png</Source>
+      <Name>sprites\newsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\sprites\newsprite.xnb</Output>
+      <Time>2016-04-29T14:04:09.0353167-06:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{AFC45306-3C85-44E0-9135-A024D91E7DB2}</ContentProjectGUID>
@@ -8,12 +17,36 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_gameContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_gameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
         <Value>2016-03-31T23:51:29.2016622-06:00</Value>

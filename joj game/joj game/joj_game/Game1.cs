@@ -16,6 +16,7 @@ namespace joj_game
   /// </summary>
   public class Game1 : Microsoft.Xna.Framework.Game
   {
+    public static ContentManager GameContent;
     GraphicsDeviceManager graphics;
     SpriteBatch spriteBatch;
 
@@ -23,6 +24,7 @@ namespace joj_game
     {
       graphics = new GraphicsDeviceManager(this);
       Content.RootDirectory = "Content";
+      GameContent = Content;
     }
 
     /// <summary>
@@ -46,6 +48,7 @@ namespace joj_game
     {
       // Create a new SpriteBatch, which can be used to draw textures.
       spriteBatch = new SpriteBatch(GraphicsDevice);
+      ContentLibrarby.Init();
 
       // TODO: use this.Content to load your game content here
     }
@@ -82,7 +85,9 @@ namespace joj_game
     protected override void Draw(GameTime gameTime)
     {
       GraphicsDevice.Clear(Color.CornflowerBlue);
-
+      spriteBatch.Begin();
+      spriteBatch.Draw(ContentLibrarby.Sprites["newsprite"], Vector2.Zero, Color.White);
+      spriteBatch.End();
       // TODO: Add your drawing code here
 
       base.Draw(gameTime);

@@ -14,3 +14,20 @@ c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\o
 c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\joj_game.exe
 c:\users\luna\documents\visual studio 2015\Projects\joj game\joj game\joj_game\obj\x86\Debug\joj_game.pdb
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\sprites\newsprite.xnb
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\joj_game.exe
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\joj_game.pdb
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_game.csprojResolveAssemblyReference.cache
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_game.exe
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_game.pdb
