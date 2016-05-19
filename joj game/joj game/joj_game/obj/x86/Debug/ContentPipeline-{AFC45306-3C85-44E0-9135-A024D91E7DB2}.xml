@@ -10,6 +10,15 @@
       <Output>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\sprites\newsprite.xnb</Output>
       <Time>2016-04-29T14:04:09.0353167-06:00</Time>
     </Item>
+    <Item>
+      <Source>sprites\woman.png</Source>
+      <Name>sprites\woman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\sprites\woman.xnb</Output>
+      <Time>2016-04-29T14:15:36.3370005-06:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{AFC45306-3C85-44E0-9135-A024D91E7DB2}</ContentProjectGUID>

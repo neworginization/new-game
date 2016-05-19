@@ -31,3 +31,4 @@ C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_ga
 C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_game.exe
 C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\obj\x86\Debug\joj_game.pdb
+C:\Users\Luna\Documents\new-game\joj game\joj game\joj_game\bin\x86\Debug\Content\sprites\woman.xnb

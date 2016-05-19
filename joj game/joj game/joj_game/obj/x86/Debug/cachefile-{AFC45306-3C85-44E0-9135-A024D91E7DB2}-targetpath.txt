@@ -1,1 +1,2 @@
 Content\sprites\newsprite.xnb
+Content\sprites\woman.xnb

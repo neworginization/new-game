@@ -8,20 +8,25 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+using joj_game.Util;
 
 namespace joj_game
 {
   /// <summary>
   /// This is the main type for your game
   /// </summary>
-  public class Game1 : Microsoft.Xna.Framework.Game
+  public class Game1 : Game
   {
+    int X;
+    int Y;
+    public static Game1 Instance;
     public static ContentManager GameContent;
     GraphicsDeviceManager graphics;
     SpriteBatch spriteBatch;
 
     public Game1()
     {
+      Instance = this;
       graphics = new GraphicsDeviceManager(this);
       Content.RootDirectory = "Content";
       GameContent = Content;
@@ -49,6 +54,7 @@ namespace joj_game
       // Create a new SpriteBatch, which can be used to draw textures.
       spriteBatch = new SpriteBatch(GraphicsDevice);
       ContentLibrarby.Init();
+      
 
       // TODO: use this.Content to load your game content here
     }
@@ -73,6 +79,8 @@ namespace joj_game
       if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
         this.Exit();
 
+
+
       // TODO: Add your update logic here
 
       base.Update(gameTime);
@@ -86,7 +94,6 @@ namespace joj_game
     {
       GraphicsDevice.Clear(Color.CornflowerBlue);
       spriteBatch.Begin();
-      spriteBatch.Draw(ContentLibrarby.Sprites["newsprite"], Vector2.Zero, Color.White);
       spriteBatch.End();
       // TODO: Add your drawing code here
 
